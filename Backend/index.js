@@ -8,7 +8,7 @@ const PORT = 5000;
 app.use(cors());
 app.use(express.json());
 
-const FILE_PATH = "./leads.json";
+const FILE_PATH = "/tmp/leads.json";
 
 // Create file automatically if not exists
 async function ensureFile() {
