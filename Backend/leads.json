@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "company": "TechLabs",
+    "email": "john@example.com",
+    "status": "Active"
+  },
+  {
+    "id": "2",
+    "name": "Sarah Smith",
+    "company": "LeadBlocks",
+    "email": "sarah@leadblocks.com",
+    "status": "Inactive"
+  },
+  {
+    "id": 1763179925930,
+    "name": "shiva gupta",
+    "company": "ABC collab11",
+    "email": "ravi@gmail.com",
+    "status": "Active"
+  }
+]
